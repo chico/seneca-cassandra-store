@@ -22,7 +22,7 @@
     "seneca": "0.5.x",
     "underscore": "1.4.x",
     "node-uuid": "1.4.x",
-    "cassandra-client": "0.14.7"
+    "cassandra-client": "0.15.1"
   },
   "devDependencies": {
     "mocha": "1.9.x",
